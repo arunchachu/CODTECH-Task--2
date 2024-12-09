@@ -28,7 +28,8 @@ The objective of this project is to develop a temperature converter program that
 
 
 ### technique used 
-The primary technique used in this project is menu-driven programming, which allows users to interact with the program by selecting predefined options. It utilizes conditional statements (switch-case) for decision-making and arithmetic operations for performing temperature conversions based on user input.![Screenshot (17)](https://github.com/user-attachments/assets/2f3e51f1-99a8-4147-ab48-19c4ff6356ba)
+The primary technique used in this project is menu-driven programming, which allows users to interact with the program by selecting predefined options. It utilizes conditional statements (switch-case) for decision-making and arithmetic operations for performing temperature conversions based on user input.
+## output ![Screenshot (17)](https://github.com/user-attachments/assets/2f3e51f1-99a8-4147-ab48-19c4ff6356ba)
 
 
 
